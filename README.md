@@ -136,7 +136,7 @@ Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/17964781?s=460&v=4" width="100px;"/><br /><sub><b>Nora AlNashwan</b></sub>](https://twitter.com/xnorax)<br />[💻](#Contributors "Code") [📖](#Contributors "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/18343619?s=400&v=4" width="100px;"/><br /><sub><b>Rackad AlRasheed</b></sub>](https://twitter.com/rackadra)<br />[🤔](#Contributors "Ideas & Planning") [🎨](Contributors "Design")
+| [<img src="https://avatars0.githubusercontent.com/u/17964781?s=460&v=4" width="100px;"/><br /><sub><b>Nora AlNashwan</b></sub>](https://twitter.com/xnorax)<br />[💻](#Contributors "Code") [📖](#Contributors "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/18343619?s=400&v=4" width="100px;"/><br /><sub><b>Rackad AlRasheed</b></sub>](https://twitter.com/rackadra)<br />[🤔](#Contributors "Ideas & Planning") [📖](#Contributors "Documentation")
 | :---: | :---: |
 
 This project follows the [all-contributors][all-contributors] specification.
