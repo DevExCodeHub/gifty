@@ -138,6 +138,7 @@ Thanks goes to these wonderful people:
 <!-- prettier-ignore -->
 | [<img src="https://avatars0.githubusercontent.com/u/17964781?s=460&v=4" width="100px;"/><br /><sub><b>Nora AlNashwan</b></sub>](https://twitter.com/xnorax)<br />[💻](#Contributors "Code") [📖](#Contributors "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/18343619?s=400&v=4" width="100px;"/><br /><sub><b>Rackad AlRasheed</b></sub>](https://twitter.com/rackadra)<br />[🤔](#Contributors "Ideas & Planning") [🎨](Contributors "Design")
 | :---: | :---: |
+
 This project follows the [all-contributors][all-contributors] specification.
 Contributions of any kind are welcome!
 
