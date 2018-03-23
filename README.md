@@ -141,6 +141,4 @@ Thanks goes to these wonderful people:
 
 This project follows the [all-contributors][all-contributors] specification.
 Contributions of any kind are welcome!
-
-[emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
 [all-contributors]: https://github.com/kentcdodds/all-contributors
